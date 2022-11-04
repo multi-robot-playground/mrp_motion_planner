@@ -1,0 +1,7 @@
+<class_libraries>
+    <library path="rvo">
+        <class type="mrp_motion_planner::RVO" base_class_type="mrp_local_server_core::MotionPlannerInterface">
+            <description></description>
+        </class>
+    </library>
+</class_libraries>
